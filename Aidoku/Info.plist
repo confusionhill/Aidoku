@@ -106,11 +106,7 @@
 	<key>UIApplicationSupportsMultipleScenes</key>
 	<true/>
 	<key>UIBackgroundModes</key>
-	<array>
-		<string>remote-notification</string>
-		<string>processing</string>
-		<string>fetch</string>
-	</array>
+	<array/>
 	<key>UTExportedTypeDeclarations</key>
 	<array>
 		<dict>
